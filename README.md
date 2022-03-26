@@ -29,6 +29,7 @@ Original
 <img width="753" alt="original_THS" src="https://user-images.githubusercontent.com/100378319/160249776-55ffbcb7-8c14-4497-9d76-037083970309.png">
 
 Updated
+
 ![update_THS](https://user-images.githubusercontent.com/100378319/160249942-feb30dca-c703-48c9-a8fa-cccae8b18adb.png)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
