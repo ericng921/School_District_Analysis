@@ -21,9 +21,10 @@ In addition, we obtained the top 5 and bottom 5 overall passing results, new mat
 - How is the school summary affected?
    
   Thomas High School is moved to 2nd with highest overall passing percentage from 8th of 15 schools.
-      
-![per_school_summary](https://user-images.githubusercontent.com/100378319/160249555-9ba26e55-1830-401f-b020-8aca4f2e37a9.png)
-![per_school_summary_df](https://user-images.githubusercontent.com/100378319/160249560-dced855e-febf-4eca-868b-6b827387e608.png)
+  
+![Original_top_school](https://user-images.githubusercontent.com/100378319/160249965-3a0eb574-e774-45c0-86bc-85ea07fc8ff6.png)
+![updated_top_school](https://user-images.githubusercontent.com/100378319/160249967-c6c2df04-f84c-4744-9907-02c495287711.png)
+
  
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
    
