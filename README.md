@@ -41,7 +41,7 @@ Updated
 
 - How does replacing the ninth-grade scores affect the following:
 
-    * Math and reading scores by grade    
+  * Math and reading scores by grade    
 
     Math and reading scores by grade are showing NaN for Thomas High School 9th grade 
     
@@ -50,31 +50,35 @@ Updated
 
 ![new_reading_scoresbygrade](https://user-images.githubusercontent.com/100378319/160249601-0398f696-51c5-449b-b24e-f9998363eac8.png)
 
-    * Scores by school spending
+
+  * Scores by school spending
    
     The spending ranges for THS is changed to $630-644. However, there is a very minor impact for the data
     
 Original
+
 <img width="618" alt="original_per_student" src="https://user-images.githubusercontent.com/100378319/160249642-ce8a6474-be61-4fec-ae52-84a12efc0117.png">
 
 Updated
 ![updated_per_student](https://user-images.githubusercontent.com/100378319/160249624-3c3207c6-a1bd-438b-974e-f885761aaec4.png)
 
-    * Scores by school size
+  * Scores by school size
    
     THS is medium size (1000-2000) and the scores by school size has a very minor impact as picture shown below
     
 Original
+
 <img width="563" alt="original_by_school_size" src="https://user-images.githubusercontent.com/100378319/160249693-dee8e194-b50a-4fba-adaf-5616f34b9543.png">
 
 Updated
 ![update_by_school_size](https://user-images.githubusercontent.com/100378319/160249680-2b8c1683-d02a-4c82-9bdc-c95130ebe53f.png)
-
-    * Scores by school type
+  
+  * Scores by school type
     
     THS is a Charter School Type. The scores by school type have a very minor impact as well as picture shown below.
     
-Original    
+Original
+
 <img width="531" alt="original_by_school_type" src="https://user-images.githubusercontent.com/100378319/160249705-9d1130d1-af02-467b-8715-b1d23a902aa0.png">
 
 Updated
