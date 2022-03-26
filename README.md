@@ -20,18 +20,18 @@ In addition, we obtained the top 5 and bottom 5 overall passing results, new mat
   
 - How is the school summary affected?
    
-  Thomas High School is moved to 2nd with highest overall passing percentage from 8th of 15 schools.
-  
-![Original_top_school](https://user-images.githubusercontent.com/100378319/160249965-3a0eb574-e774-45c0-86bc-85ea07fc8ff6.png)
-![updated_top_school](https://user-images.githubusercontent.com/100378319/160249967-c6c2df04-f84c-4744-9907-02c495287711.png)
+  The overall passing percentage is increased from 65% to 91%. 
 
- 
+<img width="753" alt="original_THS" src="https://user-images.githubusercontent.com/100378319/160249776-55ffbcb7-8c14-4497-9d76-037083970309.png">
+
+![update_THS](https://user-images.githubusercontent.com/100378319/160249942-feb30dca-c703-48c9-a8fa-cccae8b18adb.png)
+
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
    
   The overall performance is much better after replacing the THS 9th grade math and reading scores. It became 2nd of 15 schools with highest overall passing percentage and also moved from bottom to 2nd for Charter School Type schools.
-    
-![Original_top_school](https://user-images.githubusercontent.com/100378319/160250012-ff39d538-0025-40f1-8fbf-3d5e612de3d9.png)
-![updated_top_school](https://user-images.githubusercontent.com/100378319/160250015-31d8798d-5f60-4f06-8844-aac130070814.png)
+
+![Original_top_school](https://user-images.githubusercontent.com/100378319/160250093-0f82f67b-5efb-4718-8c28-8d33771954ff.png)
+![updated_top_school](https://user-images.githubusercontent.com/100378319/160250097-364dc9e5-fe7c-4efb-b5bf-e294eae01437.png)
 
 - How does replacing the ninth-grade scores affect the following:
 
@@ -75,11 +75,6 @@ There are Four changes in the updated school district analysis after reading and
 1. Student dataset and Scores by Grade dataframe will show NaN on Reading and Math Scores for THS 9th grade student.
 
 2. For THS % of overall passing, it is increased from 65.08% to 90.63% after omitting the ninth-grade students.
-
-<img width="753" alt="original_THS" src="https://user-images.githubusercontent.com/100378319/160249776-55ffbcb7-8c14-4497-9d76-037083970309.png">
-
-![update_THS](https://user-images.githubusercontent.com/100378319/160249942-feb30dca-c703-48c9-a8fa-cccae8b18adb.png)
-
 
 3. The numbers of District summary has been slightly changed. The Average Math Score is -0.05, Average Reading Score is 0.02, % Passing Math is -0.22, the % Passing Reading is -0.15, and % Overall Passing is -0.32. These changes are minor because there are only 461 ninth grade student from THS excluded, it is not a big number compare to total students of 39170.
 
