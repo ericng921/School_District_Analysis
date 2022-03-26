@@ -25,7 +25,9 @@ In addition, we obtained the top 5 and bottom 5 overall passing results, new mat
   The avgerage Math and reading score are slightly changed, but the overall passing percentage is increased from 65% to 91%. 
 
 Original
+
 <img width="753" alt="original_THS" src="https://user-images.githubusercontent.com/100378319/160249776-55ffbcb7-8c14-4497-9d76-037083970309.png">
+
 Updated
 ![update_THS](https://user-images.githubusercontent.com/100378319/160249942-feb30dca-c703-48c9-a8fa-cccae8b18adb.png)
 
@@ -60,6 +62,7 @@ Original
 <img width="618" alt="original_per_student" src="https://user-images.githubusercontent.com/100378319/160249642-ce8a6474-be61-4fec-ae52-84a12efc0117.png">
 
 Updated
+
 ![updated_per_student](https://user-images.githubusercontent.com/100378319/160249624-3c3207c6-a1bd-438b-974e-f885761aaec4.png)
 
   * Scores by school size
@@ -71,6 +74,7 @@ Original
 <img width="563" alt="original_by_school_size" src="https://user-images.githubusercontent.com/100378319/160249693-dee8e194-b50a-4fba-adaf-5616f34b9543.png">
 
 Updated
+
 ![update_by_school_size](https://user-images.githubusercontent.com/100378319/160249680-2b8c1683-d02a-4c82-9bdc-c95130ebe53f.png)
   
   * Scores by school type
@@ -82,6 +86,7 @@ Original
 <img width="531" alt="original_by_school_type" src="https://user-images.githubusercontent.com/100378319/160249705-9d1130d1-af02-467b-8715-b1d23a902aa0.png">
 
 Updated
+
 ![updated_by_school_type](https://user-images.githubusercontent.com/100378319/160249711-a2ccca53-7d23-43b6-8374-aed0bc5a5b91.png)
 
     
