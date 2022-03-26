@@ -30,14 +30,14 @@ In addition, we obtained the top 5 and bottom 5 overall passing results, new mat
    
   The overall performance is much better after replacing the THS 9th grade math and reading scores. It became 2nd of 15 schools with highest overall passing percentage and also moved from bottom to 2nd for Charter School Type schools.
     
-![Original_top_school](https://user-images.githubusercontent.com/100378319/160249582-adb92d75-1687-4a48-a717-6b8703460fef.png) 
-![updated_top_school](https://user-images.githubusercontent.com/100378319/160249578-908eb958-18b1-45cc-8c0f-6e4d68396ac1.png)
+![Original_top_school](https://user-images.githubusercontent.com/100378319/160250012-ff39d538-0025-40f1-8fbf-3d5e612de3d9.png)
+![updated_top_school](https://user-images.githubusercontent.com/100378319/160250015-31d8798d-5f60-4f06-8844-aac130070814.png)
 
 - How does replacing the ninth-grade scores affect the following:
 
     * Math and reading scores by grade    
-   
-   Math and reading scores by grade are showing NaN for Thomas High School 9th grade 
+
+    Math and reading scores by grade are showing NaN for Thomas High School 9th grade 
    
 ![new_math_scoresbygrade](https://user-images.githubusercontent.com/100378319/160249597-8d85eda1-9a7c-434b-8623-8db4c9b3bda3.png)
 
@@ -45,7 +45,7 @@ In addition, we obtained the top 5 and bottom 5 overall passing results, new mat
 
     * Scores by school spending
    
-   The spending ranges for THS is changed to $630-644. However, there is a very minor impact for the data
+    The spending ranges for THS is changed to $630-644. However, there is a very minor impact for the data
     
 <img width="618" alt="original_per_student" src="https://user-images.githubusercontent.com/100378319/160249642-ce8a6474-be61-4fec-ae52-84a12efc0117.png">
 
@@ -53,7 +53,7 @@ In addition, we obtained the top 5 and bottom 5 overall passing results, new mat
 
     * Scores by school size
    
-   THS is medium size (1000-2000) and the scores by school size has a very minor impact as picture shown below
+    THS is medium size (1000-2000) and the scores by school size has a very minor impact as picture shown below
 
 <img width="563" alt="original_by_school_size" src="https://user-images.githubusercontent.com/100378319/160249693-dee8e194-b50a-4fba-adaf-5616f34b9543.png">
 
