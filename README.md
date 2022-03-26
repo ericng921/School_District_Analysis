@@ -77,7 +77,8 @@ There are Four changes in the updated school district analysis after reading and
 
 <img width="753" alt="original_THS" src="https://user-images.githubusercontent.com/100378319/160249776-55ffbcb7-8c14-4497-9d76-037083970309.png">
 
-![update_THS](https://user-images.githubusercontent.com/100378319/160249780-02db776d-4aed-4c20-bef6-c3ebc62254e8.png)
+![update_THS](https://user-images.githubusercontent.com/100378319/160249942-feb30dca-c703-48c9-a8fa-cccae8b18adb.png)
+
 
 3. The numbers of District summary has been slightly changed. The Average Math Score is -0.05, Average Reading Score is 0.02, % Passing Math is -0.22, the % Passing Reading is -0.15, and % Overall Passing is -0.32. These changes are minor because there are only 461 ninth grade student from THS excluded, it is not a big number compare to total students of 39170.
 
