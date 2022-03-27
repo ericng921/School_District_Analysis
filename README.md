@@ -13,7 +13,7 @@ In addition, we obtained the top 5 and bottom 5 overall passing results, new mat
 
 - How is the district summary affected?
 
-  The district summary has a minor impact because there are only 461 THS 9th grade student excluded compare to a total of 39170 students in 15 schools.
+  The district summary has a minor impact, because there are only 461 THS 9th grade student excluded compare to a total of 39170 students in 15 schools.
     
   Original
   ![district_summary](https://user-images.githubusercontent.com/100378319/160249541-c9619996-95b5-469d-a406-004df2d36857.png)
@@ -22,7 +22,7 @@ In addition, we obtained the top 5 and bottom 5 overall passing results, new mat
   
 - How is the school summary affected?
    
-  The avgerage Math and reading score are slightly changed, but the overall passing percentage is increased from 65% to 91%. 
+  The avgerage Math and reading score are slightly changed, and the overall passing percentage is increased from 65% to 91%. 
 
 Original
 
