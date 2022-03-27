@@ -34,7 +34,7 @@ Updated
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
    
-  The overall performance is much better after replacing the THS 9th grade math and reading scores. It became 2nd of 15 schools with highest overall passing percentage and also moved from bottom to 2nd for Charter School Type schools.
+  THS overall performance is much better after replacing the THS 9th grade math and reading scores. It became 2nd of 15 schools with highest overall passing percentage and also moved from bottom to 2nd for Charter School Type schools.
 
 Original
 ![Original_top_school](https://user-images.githubusercontent.com/100378319/160250093-0f82f67b-5efb-4718-8c28-8d33771954ff.png)
